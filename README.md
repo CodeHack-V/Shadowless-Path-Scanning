@@ -1,2 +1,2 @@
-# Shadowless-Path-Scanning
-Powerd By Chinese Hacker V V2.0 features: dynamically create the same directory TXT   control, responsive WPF engine rendering UI, algorithm optimization.
+# SPS
+一个异步多并发路径扫描的工具，自定义字典可以放到同目录，会自动生成到字典集合选项，后缀名需要为.txt(大小写不敏感)
